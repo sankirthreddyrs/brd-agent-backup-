@@ -1,0 +1,5 @@
+Sprint 2 Follow-up Security Review Notes
+Date: 2026-10-15 | Attendees: Product Manager, Security Lead, Operations Lead
+User sessions must expire after 30 minutes of inactivity.
+Review of operational complaints regarding sudden session disconnects during long form submissions.
+Agreed to align timeout settings with the revised enterprise usability baseline.

@@ -1,0 +1,5 @@
+Sprint 1 Kickoff Meeting Notes
+Date: 2026-10-14 | Attendees: Architecture Team, Product Owner, Security Lead
+User sessions must expire after 15 minutes of inactivity.
+All security groups must sync automatically with the central directory.
+Token refreshes should be performed silently in the background.
